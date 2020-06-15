@@ -1,0 +1,28 @@
+
+body{
+ background-color: aqua;
+ box-sizing: border-box;
+ margin: 0%;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+ background-image:url(https://picsum.photos/1250/1250);
+}
+
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  padding: 20px 20px;
+  background-color: aquamarine;
+  color: burlywood;
+  border-radius: 20px;
+}
+
+span{
+  color: darkkhaki;
+}
